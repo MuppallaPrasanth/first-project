@@ -1,2 +1,4 @@
 # first-project
-this is my first github project
+this is new public repository
+ </br>
+ Author -- M.prasanth
